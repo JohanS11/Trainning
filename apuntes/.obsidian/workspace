@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "9be0af1c78c97d2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "56afb813efb25caa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cloud/AWS/FLAWS.CLOUD Walkthrough.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7dd8087163c9a7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d143085125f2be69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c30eaaed927bbebc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc5c80cb77cb7ca8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.0151138305664
+  },
+  "right": {
+    "id": "9c8b69813534c137",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b0f6426e37d5622",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "263cc98582efc67f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cloud/AWS/FLAWS.CLOUD Walkthrough.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "56afb813efb25caa",
+  "lastOpenFiles": [
+    "Cloud/AWS/FLAWS.CLOUD Walkthrough.md",
+    "Cloud/AWS/S3 BUCKET HACKING.md",
+    "Cloud/images/Pasted image 20211026220107.png",
+    "Pasted image 20211026220105.png",
+    "Seal Report/0-Information Gathering/Info.md",
+    "Horizontall Report/1-Vulnerabilities/1 - strapi-> root.md",
+    "Horizontall Report/0-Information Gathering/Info.md",
+    "Bountyhunter Report/0-Information Gathering/Info.md",
+    "Love Report/1-Vulnerabilities/1 - Registry - AlwayInstallElevated.md",
+    "Love Report/1-Vulnerabilities/0- Authentication Bypass + php file upload rce.md"
+  ]
+}
